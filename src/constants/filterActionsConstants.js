@@ -1,0 +1,12 @@
+const filterActions = {
+    SORT_HIGH_TO_LOW: "SORT_HIGH_TO_LOW",
+    SORT_LOW_TO_HIGH: "SORT_LOW_TO_HIGH",
+    FILTER_CATEGORY: "FILTER_CATEGORY",
+    FILTER_SIZES: "FILTER_SIZES",
+    FILTER_IDEAL_FOR: "FILTER_IDEAL_FOR",
+    CLEAR_ALL: "CLEAR_ALL"
+}
+
+export {
+    filterActions
+};

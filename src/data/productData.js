@@ -1,7 +1,7 @@
 const products = [{
         title: "Men Super Slim Fit Solid Cut Away Collar Casual Shirt",
         description: "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-        price: "22.00",
+        price: "800.00",
         category: "Generic",
         brand: "FTX",
         idealFor: "Men",
@@ -14,7 +14,7 @@ const products = [{
     {
         title: "Printed Daily Wear Art Silk Saree  (Pink)",
         description: "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-        price: "199.00",
+        price: "299.00",
         category: "Incredible",
         brand: "FTX",
         idealFor: "Women",
@@ -27,7 +27,7 @@ const products = [{
     {
         title: "Women A-line Multicolor Dress",
         description: "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-        price: "967.00",
+        price: "1000.00",
         category: "Handcrafted",
         brand: "Allen Solly",
         idealFor: "Women",
@@ -53,7 +53,7 @@ const products = [{
     {
         title: "Skinny Men Black Jeans",
         description: "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-        price: "667.00",
+        price: "567.00",
         category: "Handmade",
         brand: "LEVI'S",
         size: "m",
